@@ -5,3 +5,6 @@ main.py
 ## PDF/Audio Files
 **.pdf
 **.mp3
+
+## pycache
+__pycache__
